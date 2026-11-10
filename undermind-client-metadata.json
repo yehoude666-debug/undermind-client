@@ -1,1 +1,10 @@
-
+{
+  "client_id": "https://yehoude666-debug.github.io/undermind-client/undermind-client-metadata.json",
+  "client_name": "DeepSeek Harness",
+  "client_uri": "https://github.com/deepseek-ai",
+  "redirect_uris": ["http://127.0.0.1:8799/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": "mcp"
+}
